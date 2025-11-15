@@ -1,66 +1,81 @@
-<h1 align="center">Hi 👋, I'm Pavithra</h1>
-<h3 align="center">🎓 Information Science & Engineering | 💡 Developer | 🚀 Tech Enthusiast</h3>
+<!-- Profile Header -->
+<h1 align="center">✨ Hey there, I'm <span style="color:#a855f7;">Pavithra</span> ✨</h1>
+<h3 align="center">🎓 Information Science & Engineering | 💻 Developer | 🚀 Tech Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9A4DFF&center=true&vCenter=true&width=440&lines=ISE+Student+%7C+Developer;Networking+%7C+Python+%7C+Java;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🔥 About Me
-- 👩‍🎓 3rd Year **Information Science & Engineering (ISE)** student  
-- 💻 Interested in **Networking, System Programming, Python, Java, ML**  
-- 🛠 Love building real technical projects  
-- 🌱 Currently learning **Computer Networks**, **Python projects**, **Java OOP**  
-- 📌 Actively improving my GitHub with quality projects
+# 🌸 **About Me**
+- 👩‍🎓 3rd year **Information Science & Engineering** student  
+- 💻 Passionate about **Networking, Python, Java, ML**  
+- 🛠 Love creating hands-on technical projects  
+- 🌱 Currently learning: **CN Projects, Java OOP, Python Tools**  
+- 🎯 Goal: Build industry-level projects for my portfolio  
 
 ---
 
-## 🚀 Skills & Technologies
+# 🚀 **Tech Stack & Tools**
 
-### 🐍 Programming Languages  
-- **Python**, **Java**, C basics
+### 🔹 **Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
 
-### 🌐 Networking  
-- Packet Sniffing  
-- Scapy  
-- DNS Tools  
-- Basic Network Security Concepts  
+### 🔹 **Networking**
+<p>
+  <img src="https://img.shields.io/badge/Scapy-1.0-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Npcap-537ECF?style=for-the-badge" />
+</p>
 
-### 💻 Tools & Platforms  
-- VS Code  
-- Git & GitHub  
-- Windows Command Line  
-- Jupyter Notebook  
+### 🔹 **Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+# 📂 **Featured Projects**
 
 ### 🔹 Packet Sniffer (Python + Scapy)
-🔗 https://github.com/pavithraB-wec/packet-sniffer  
-A real-time **network packet sniffer** that captures TCP/UDP traffic.
+📌 **Repo:** https://github.com/pavithraB-wec/packet-sniffer  
+A real-time packet sniffer capturing **TCP/UDP** packets — built with Scapy.
 
-### 🔹 (Upcoming) DNS Lookup Tool  
-A CLI-based DNS resolver using Python’s socket library.
+### 🔹 DNS Lookup Tool (Coming Soon)
+A CLI tool to resolve domain names and analyze DNS responses.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 **GitHub Stats**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavithraB-wec&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavithraB-wec&theme=tokyonight" width="48%"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pavithraB-wec&show_icons=true&theme=radical" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=pavithraB-wec&theme=radical" />
 </p>
 
 ---
 
-## 🌐 Languages Used
+# 🎨 **Languages Used**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithraB-wec&layout=compact&theme=tokyonight" width="45%"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithraB-wec&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 💬 Contact Me  
-📧 Email: **p71212764@gmail.com**
+# 💌 **Connect With Me**
+
+- 📧 Email: **p71212764@gmail.com**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pavithraB-wec&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+</p>
 
 ---
 
-## ✨ Thank you for visiting my profile!
-Feel free to check out my repositories and connect with me. 😊
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
