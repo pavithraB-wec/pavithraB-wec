@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">✨ Hey there, I'm <span style="color:#a855f7;">Pavithra</span> ✨</h1>
-<h3 align="center">🎓 Information Science & Engineering | 💻 Developer | 🚀 Tech Explorer</h3>
+<h3 align="center">🎓 Information Science & Engineering |  🚀 Tech Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9A4DFF&center=true&vCenter=true&width=440&lines=ISE+Student+%7C+Developer;Networking+%7C+Python+%7C+Java;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
