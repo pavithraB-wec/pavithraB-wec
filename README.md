@@ -41,18 +41,43 @@
 
 ---
 
-# 📂 **Featured Projects**
+## 📂 Featured Projects
 
-### 🔹 Packet Sniffer (Python + Scapy)
-📌 **Repo:** https://github.com/pavithraB-wec/packet-sniffer  
-A real-time packet sniffer capturing **TCP/UDP** packets — built with Scapy.
-
-### 🔹 DNS Lookup Tool (Coming Soon)
-A CLI tool to resolve domain names and analyze DNS responses.
+### 🔹 Student Performance Data Analytics (MySQL + Python)
+🔗 https://github.com/pavithraB-wec/Student-Performance-Data-Analytics  
+A data analytics mini-project that integrates **MySQL and Python** to analyze student academic performance.  
+Includes SQL schema design, Python database connectivity, data analysis using Pandas, and visualization with Matplotlib.
 
 ---
 
-# 💌 **Connect With Me**
+### 🔹 Process Scheduling Simulator (C Programming)
+🔗 https://github.com/pavithraB-wec/Process-Scheduling-Simulator  
+A console-based simulator implementing **FCFS, SJF, and Round Robin** CPU scheduling algorithms with clear output and modular design.
+
+---
+
+### 🔹 Packet Sniffer (Python + Scapy)
+🔗 https://github.com/pavithraB-wec/packet-sniffer  
+A real-time **network packet sniffer** that captures and analyzes TCP/UDP traffic for educational and security analysis purposes.
+
+---
+
+### 🔹 Basic Chat Application (Web Technologies)
+🔗 https://github.com/pavithraB-wec/basic-chat-app  
+A simple real-time chat application demonstrating **frontend–backend communication**, UI design, and live messaging concepts.
+
+---
+
+### 🔹 Online Quiz System
+🔗 https://github.com/pavithraB-wec/OnlineQuizSystem  
+A basic quiz platform that manages questions, evaluates answers, and displays results — designed for learning core application logic.
+
+---
+
+### 🔹 ISE CGPA Calculator
+🔗 https://github.com/pavithraB-wec/wec-ise-cgpa-calculator  
+A utility tool for **Information Science & Engineering students** to calculate CGPA based on semester-wise grades.
+
 
 - 📧 Email: **p71212764@gmail.com**
 
