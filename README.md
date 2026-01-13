@@ -52,22 +52,6 @@ A CLI tool to resolve domain names and analyze DNS responses.
 
 ---
 
-# 📊 **GitHub Stats**
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pavithraB-wec&show_icons=true&theme=radical" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=pavithraB-wec&theme=radical" />
-</p>
-
----
-
-# 🎨 **Languages Used**
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithraB-wec&layout=compact&theme=radical" />
-</p>
-
----
-
 # 💌 **Connect With Me**
 
 - 📧 Email: **p71212764@gmail.com**
