@@ -53,6 +53,11 @@ Includes SQL schema design, Python database connectivity, data analysis using Pa
 
 ---
 
+### 🔹 ISE CGPA Calculator
+🔗 https://github.com/pavithraB-wec/wec-ise-cgpa-calculator  
+A utility tool for **Information Science & Engineering students** to calculate CGPA based on semester-wise grades.
+
+---
 ### 🔹 Process Scheduling Simulator (C Programming)
 🔗 https://github.com/pavithraB-wec/Process-Scheduling-Simulator  
 A console-based simulator implementing **FCFS, SJF, and Round Robin** CPU scheduling algorithms with clear output and modular design.
@@ -76,13 +81,15 @@ A simple real-time chat application demonstrating **frontend–backend communica
 A basic quiz platform that manages questions, evaluates answers, and displays results — designed for learning core application logic.
 
 ---
+### 🔹 Document Clustering using TF-IDF
 
-### 🔹 ISE CGPA Calculator
-🔗 https://github.com/pavithraB-wec/wec-ise-cgpa-calculator  
-A utility tool for **Information Science & Engineering students** to calculate CGPA based on semester-wise grades.
+🔗 https://github.com/pavithraB-wec/Document-Clustering-TFIDF
 
+A Python-based NLP project that clusters text documents using TF-IDF vectorization and K-Means algorithm, useful for document organization and search applications.
 
-- 📧 Email: **p71212764@gmail.com**
+---
+
+ 📧 Email: **p71212764@gmail.com**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pavithraB-wec&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
