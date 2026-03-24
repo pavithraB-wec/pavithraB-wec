@@ -17,6 +17,9 @@
 
 ---
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pavithra-balamurugan-41b6432a6/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/p71212764) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:p71212764@gmail.com) 
+
 # 🚀 **Tech Stack & Tools**
 
 ### 🔹 **Languages**
@@ -88,6 +91,9 @@ A basic quiz platform that manages questions, evaluates answers, and displays re
 A Python-based NLP project that clusters text documents using TF-IDF vectorization and K-Means algorithm, useful for document organization and search applications.
 
 ---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavithraB-wec&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
  📧 Email: **p71212764@gmail.com**
 
