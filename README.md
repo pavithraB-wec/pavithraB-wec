@@ -9,7 +9,7 @@
 ---
 
 # 🌸 **About Me**
-- 👩‍🎓 3rd year **Information Science & Engineering** student  
+- 👩‍🎓 Final year **Information Science & Engineering** student  
 - 💻 Passionate about **Networking, Python, Java, ML**  
 - 🛠 Love creating hands-on technical projects  
 - 🌱 Currently learning: **CN Projects, Java OOP, Python Tools**  
