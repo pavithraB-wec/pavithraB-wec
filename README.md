@@ -1,10 +1,19 @@
-<!-- Profile Header -->
-<h1 align="center">✨ Hey there, I'm <span style="color:#a855f7;">Pavithra</span> ✨</h1>
-<h3 align="center">🎓 Information Science & Engineering |  🚀 Tech Explorer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9A4DFF&center=true&vCenter=true&width=440&lines=ISE+Student+%7C+Developer;Networking+%7C+Python+%7C+Java;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E63,50:00C2FF,100:0F0F1A&height=200&section=header&text=PAVITHRA&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Your%20Friendly%20Neighborhood%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=%F0%9F%95%B7%EF%B8%8F+Welcome+to+the+Spider-Verse+of+Code;Information+Science+%26+Engineering+Student;Full+Stack+Developer+%7C+AI+Explorer;Building+Apps+Across+Dimensions;With+Great+Code+Comes+Great+Responsibility" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Profile%20Views-FF2E63?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=pavithraB-wec&color=00c2ff&style=for-the-badge&label=VISITORS"/>
+<img src="https://img.shields.io/github/followers/pavithraB-wec?label=FOLLOWERS&style=for-the-badge&color=0F0F1A&labelColor=FF2E63"/>
+<img src="https://img.shields.io/badge/LOCATION-Puducherry%2C%20India-0F0F1A?style=for-the-badge&logo=googlemaps&logoColor=00C2FF"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F0F1A,100:FF2E63&height=4&width=100%"/>
 
 ---
 
