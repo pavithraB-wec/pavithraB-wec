@@ -17,13 +17,17 @@
 
 ---
 
-# 🌸 **About Me**
-- 👩‍🎓 Final year **Information Science & Engineering** student  
-- 💻 Passionate about **Networking, Python, Java, ML**  
-- 🛠 Love creating hands-on technical projects  
-- 🌱 Currently learning: **CN Projects, Java OOP, Python Tools**  
-- 🎯 Goal: Build industry-level projects for my portfolio  
+## 🕷️ About Me
 
+| 🕸️ | Detail |
+|---|---|
+| 🎓 **Education** | Final year B.Tech, Information Science & Engineering — Women's Engineering College, Puducherry |
+| 📍 **Location** | Puducherry, India |
+| 💼 **Focus** | Full Stack Development, AI Agents, Civic Tech |
+| 🌱 **Currently Learning** | Advanced Networking, Java OOP, AI/ML Systems |
+| 🎯 **Mission** | Build industry-grade, high-impact portfolio projects |
+| ⚡ **Fun Fact** | I debug like I'm defusing a bomb — calm, focused, unstoppable |
+| 🕸️ **Dream Goal** | Ship technology that genuinely helps communities |
 ---
 
 ### GitHub Analytics
