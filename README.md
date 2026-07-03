@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,25:FF2E63,55:8A2BE2,100:00C2FF&height=210&section=header&text=PAVITHRA&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Your%20Friendly%20Neighborhood%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=680&lines=%F0%9F%95%B7%EF%B8%8F+Welcome+to+the+Spider-Verse+of+Code;Information+Science+%26+Engineering+Student;Full+Stack+Developer+%7C+AI+Explorer;Building+Apps+Across+Dimensions;With+Great+Code+Comes+Great+Responsibility" alt="Typing SVG" />
 
 <br/>
@@ -247,7 +246,6 @@ A modern React + Vite weather dashboard with geolocation, unit preference persis
 
 
 ## 💬 Dev Wisdom
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavithraB-wec&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
