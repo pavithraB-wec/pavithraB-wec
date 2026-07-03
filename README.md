@@ -19,15 +19,28 @@
 
 ### GitHub Analytics
 
+
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pavithraB-wec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF2E63&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavithraB-wec&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=FF2E63&currStreakLabel=00E5FF" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithraB-wec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavithraB-wec&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=FF2E63&point=ffffff" width="48%"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pavithraB-wec&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF1E1E&icon_color=00D9FF&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pavithraB-wec&theme=dark&hide_border=true&background=0D1117&ring=FF1E1E&fire=00D9FF&currStreakLabel=FF1E1E"/>
 </div>
+
+<div align="center">
+<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithraB-wec&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF1E1E&text_color=c9d1d9&layout=compact"/>
+</div>
+
+<div align="center">
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=pavithraB-wec&theme=react-dark&bg_color=0D1117&color=00D9FF&line=FF1E1E&point=FFFFFF&hide_border=true"/>
+</div>
+
+<!--
+🕸️ Contribution snake (see setup instructions below to activate for your account)
+-->
+<div align="center">
+<img src="https://raw.githubusercontent.com/pavithraB-wec/pavithraB-wec/output/github-contribution-grid-snake-dark.svg" width="98%"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%">
 
 
 
