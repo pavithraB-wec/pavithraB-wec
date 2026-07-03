@@ -22,7 +22,7 @@
 <td>
 
 ```yaml
-alias: Pavithra
+alias: Pavi
 role: Full Stack Developer | Information Science & Engineering
 origin: Women's Engineering College, Puducherry
 current_mission: Batch 13 — Class of 2023-27 | CGPA 7.886
@@ -42,7 +42,7 @@ motto: "With great code comes great responsibility."
 </table>
 
 <div align="center">
-<i>Somewhere between debugging a merge conflict and shipping a new feature, a developer discovered her power wasn't a radioactive spider bite — it was persistence. Every bug is a villain to defeat. Every deployment is a new dimension unlocked. This is her web of code.</i>
+<i>Somewhere between debugging a merge conflict and shipping a new feature, a developer discovered my power wasn't a radioactive spider bite — it was persistence. Every bug is a villain to defeat. Every deployment is a new dimension unlocked. This is my web of code.</i>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F0F1A,50:8A2BE2,100:00C2FF&height=4&width=100%"/>
