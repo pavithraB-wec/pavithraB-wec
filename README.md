@@ -23,7 +23,7 @@
 |---|---|
 | 🎓 **Education** | Final year B.Tech, Information Science & Engineering — Women's Engineering College, Puducherry |
 | 📍 **Location** | Puducherry, India |
-| 💼 **Focus** | Full Stack Development, AI Agents, Civic Tech |
+| 💼 **Focus** | Full Stack Development, AI Agents, Tech |
 | 🌱 **Currently Learning** | Advanced Networking, Java OOP, AI/ML Systems |
 | 🎯 **Mission** | Build industry-grade, high-impact portfolio projects |
 | ⚡ **Fun Fact** | I debug like I'm defusing a bomb — calm, focused, unstoppable |
@@ -68,32 +68,42 @@
   </a>
 </p>
 
-# 🚀 **Tech Stack & Tools**
 
-### 🔹 **Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</p>
+# 💻 Arsenal — Tech Stack:
 
-### 🔹 **Networking**
-<p>
-  <img src="https://img.shields.io/badge/Scapy-1.0-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Npcap-537ECF?style=for-the-badge" />
-</p>
+<div align="center">
 
-### 🔹 **Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+**Languages**
 
----
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark"/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+**Frontend & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind&theme=dark"/>
+
+**Database & Cloud**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,gcp,vercel,render&theme=dark"/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,postman&theme=dark"/>
+
+**AI / ML & Data**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-FF2E63?style=for-the-badge"/>
+
+**Networking**
+
+<img src="https://img.shields.io/badge/Scapy-0F0F1A?style=for-the-badge&logo=python&logoColor=00C2FF"/>
+<img src="https://img.shields.io/badge/Npcap-537ECF?style=for-the-badge"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F0F1A,100:FF2E63&height=4&width=100%"/>
 
 ## 📂 Featured Projects
 
