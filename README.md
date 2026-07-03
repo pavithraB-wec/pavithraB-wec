@@ -17,6 +17,20 @@
 
 ---
 
+### GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pavithraB-wec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF2E63&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavithraB-wec&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=FF2E63&currStreakLabel=00E5FF" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithraB-wec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavithraB-wec&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=FF2E63&point=ffffff" width="48%"/>
+
+</div>
+
+
+
 ## 🌐 Socials
 
 <p align="center">
@@ -112,3 +126,11 @@ A Python-based NLP project that clusters text documents using TF-IDF vectorizati
 ---
 
 <h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E63,50:00C2FF,100:0F0F1A&height=120&section=footer"/>
+
+<div align="center">
+<i>with great power comes great responsibility</i>
+</div>
