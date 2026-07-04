@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23FF2E63,%2300C2FF&color_dots=%230F0F1A,%233A0CA3,%237209B7,%23F72585,%2300C2FF
+            dist/github-contribution-grid-snake.svg?color_snake=%23FF2E63,%2300C2FF&color_dots=%232B3137,%23454D5D,%236A5ACD,%23A855F7,%23FF2E63
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23FF2E63,%2300C2FF&color_dots=%230F0F1A,%233A0CA3,%237209B7,%23F72585,%2300C2FF
 
       - name: Push snake output to the "output" branch
