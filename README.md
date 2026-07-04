@@ -239,7 +239,9 @@ A clean weather application that fetches and displays real-time forecasts for an
 
 </div>
 
-### 🕸️ Contribution Web
+<h2 align="center">
+🕸️ Spider-Verse Contribution Web
+</h2>
 
 <div align="center">
 <!--START_SECTION:snake-->
@@ -249,7 +251,9 @@ A clean weather application that fetches and displays real-time forecasts for an
   <img alt="A spider-web themed snake eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/pavithraB-wec/pavithraB-wec/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 <!--END_SECTION:snake-->
-<sub>🕷️ A neon spider slithers through my commit history every 12 hours .</sub>
+<sub><p align="center">
+🕸️ My coding journey, woven into a living web of contributions.
+</p></sub>
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00C2FF,50:8A2BE2,100:FF2E63&height=4&width=100%"/>
