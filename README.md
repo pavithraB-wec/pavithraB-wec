@@ -9,7 +9,8 @@
 <img src="https://komarev.com/ghpvc/?username=pavithraB-wec&color=00c2ff&style=for-the-badge&label=VISITORS"/>
 <img src="https://img.shields.io/github/followers/pavithraB-wec?label=FOLLOWERS&style=for-the-badge&color=0F0F1A&labelColor=FF2E63"/>
 <img src="https://img.shields.io/badge/LOCATION-Puducherry%2C%20India-0F0F1A?style=for-the-badge&logo=googlemaps&logoColor=00C2FF"/>
-
+<a href="https://www.linkedin.com/in/pavithra-ise/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:p71212764@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-FF2E63?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F0F1A,50:FF2E63,100:00C2FF&height=4&width=100%"/>
@@ -101,106 +102,115 @@ motto: "With great code comes great responsibility."
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F0F1A,50:FF2E63,100:8A2BE2&height=4&width=100%"/>
 
-## 🕸️ Featured Missions (Projects)
+## 🕷️ Featured Projects
 
-<table align="center" width="100%">
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 👁️ SmartEye Technology
-Explainable ocular AI demo that classifies eye images across Normal, Diabetic Retinopathy, Glaucoma, and Cataract — with Grad-CAM, LIME, and SHAP-style visual explanation panels, evaluation metrics, and a model training-workflow guide.
-
-`HTML` `JavaScript` `Explainable AI` `Claude API`
-
-🔗 [Repo](https://github.com/pavithraB-wec/SmartEye_Technology_An_Explainable_ocular_AI)
+### 👁️ SmartEye
+**Explainable Ocular AI**
+Deep learning system for interpretable eye-disease detection, focused on making AI diagnoses transparent and trustworthy.
+<br/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Deep%20Learning-FF2E63?style=flat-square"/>
+<br/>
+🔗 [View Repo](https://github.com/pavithraB-wec/SmartEye_Technology_An_Explainable_ocular_AI)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🌊 EncroWatch
-Satellite-based water body encroachment detection using Google Earth Engine, Sentinel-2 MNDWI/NDBI analysis, and an interactive Leaflet dashboard. Placed in the Top 70 at Bharat Innovates 2026.
-
-`Google Earth Engine` `Python` `Leaflet`
-
-🔗 [Repo](https://github.com/pavithraB-wec/EncroWatch)
+**Satellite Water Body Encroachment Detection**
+Uses Google Earth Engine + Sentinel-2 imagery (MNDWI/NDBI) to detect encroachment on Puducherry's water bodies, with a Leaflet dashboard. Top 70 at Bharat Innovates 2026.
+<br/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Earth%20Engine-00C2FF?style=flat-square"/>
+<br/>
+🔗 [View Repo](https://github.com/pavithraB-wec/EncroWatch)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 📚 E-Book Chapter & Section Search
-Flask-based Information Retrieval system for chapter- and section-level search inside uploaded PDF e-books, using TF-IDF weighting, the Vector Space Model, and cosine-similarity ranking with session-isolated libraries.
-
-`Flask` `scikit-learn` `PyPDF2`
-
-🔗 [Repo](https://github.com/pavithraB-wec/ebook-chapter-section-search-system)
+**Flask + TF-IDF Semantic Search**
+A search engine over e-book content using TF-IDF and PyPDF2 for chapter/section-level retrieval, deployed on Render.
+<br/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/TF--IDF-FF2E63?style=flat-square"/>
+<br/>
+🔗 [View Repo](https://github.com/pavithraB-wec/ebook-chapter-section-search-system)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🎓 ScholarPath India
-Civic-tech scholarship discovery portal tackling the fact that 60%+ of eligible Indian students never apply, because scholarship info is scattered across 50+ portals — built as a custom WordPress child theme with an eligibility checker.
-
-`WordPress` `PHP` `HTML/CSS` `MySQL`
-
-🔗 [Repo](https://github.com/pavithraB-wec/scholarpath-india)
+**Civic-Tech Scholarship Discovery Portal**
+A WordPress-based platform (ACF + CPT UI) listing 15+ real Indian government scholarships to help students discover funding opportunities.
+<br/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/> <img src="https://img.shields.io/badge/Civic%20Tech-00C2FF?style=flat-square"/>
+<br/>
+🔗 [View Repo](https://github.com/pavithraB-wec/scholarpath-india)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🛒 SmartMart — AI Supermarket Billing
-End-to-end system that detects supermarket items from a photo using YOLOv8 and generates an itemised bill, with an XGBoost price-prediction fallback and PDF bill generation via a Flask API.
-
-`YOLOv8` `XGBoost` `Flask` `OpenCV`
-
-🔗 [Repo](https://github.com/pavithraB-wec/SmartMart-AI-Powered-Supermarket-Billing-System)
+### 🛒 SmartMart
+**AI-Powered Supermarket Billing System**
+An intelligent billing solution designed to streamline supermarket checkout and inventory operations using AI.
+<br/>
+<img src="https://img.shields.io/badge/AI-FF2E63?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/>
+<br/>
+🔗 [View Repo](https://github.com/pavithraB-wec/SmartMart-AI-Powered-Supermarket-Billing-System)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🏥 CareFlow — MediCareConnect
-Unified React dashboard bundling two portals — Patient and Hospital — in one app, with real-time emergency accept/reject panels, bed management, drug-conflict detection, and QR-based patient history lookup.
-
-`React` `Tailwind CSS`
-
-🔗 [Repo](https://github.com/pavithraB-wec/CareFlow_MediCareConnect_Unified_Dashboard)
+**Unified Hospital Management Dashboard**
+A unified dashboard connecting hospital operations — patients, records, and workflows — into a single interface.
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Dashboard-00C2FF?style=flat-square"/>
+<br/>
+🔗 [View Repo](https://github.com/pavithraB-wec/CareFlow_MediCareConnect_Unified_Dashboard)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 💬 Fancy Real-Time Chat App
-A modern real-time chat application with a gradient UI, multi-user support, multiple chat rooms, live timestamps, and avatars — built on Node.js, Express, and Socket.io.
-
-`Node.js` `Express` `Socket.io`
-
-🔗 [Repo](https://github.com/pavithraB-wec/basic-chat-app)
+### 💬 Basic Chat App
+**Real-Time Messaging**
+A real-time chat application demonstrating frontend-backend communication and live messaging concepts.
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<br/>
+🔗 [View Repo](https://github.com/pavithraB-wec/basic-chat-app)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 📝 Online Quiz System
-Role-based quiz platform for Admins, Teachers, and Students — with course & question management, automated MCQ scoring, and analytics dashboards, built on Flask with Flask-Login authentication.
-
-`Flask` `SQLite` `Bootstrap 5`
-
-🔗 [Repo](https://github.com/pavithraB-wec/OnlineQuizSystem)
+**Quiz Management Platform**
+Manages questions, evaluates answers, and displays results — built to reinforce core application logic.
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<br/>
+🔗 [View Repo](https://github.com/pavithraB-wec/OnlineQuizSystem)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### ☁️ Skycast Weather App
-A modern React + Vite weather dashboard with geolocation, unit preference persistence, animated weather scenes, hourly/daily forecasts, air quality, alerts, and a map view.
-
-`React` `TypeScript` `Vite` `Tailwind CSS`
-
-🔗 [Repo](https://github.com/pavithraB-wec/Weather-App)
+### ⛅ Weather App
+**Live Weather Forecasting**
+A clean weather application that fetches and displays real-time forecasts for any location.
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/API-FF2E63?style=flat-square"/>
+<br/>
+🔗 [View Repo](https://github.com/pavithraB-wec/Weather-App)
 
 </td>
 <td width="50%" valign="top">
@@ -213,7 +223,8 @@ A modern React + Vite weather dashboard with geolocation, unit preference persis
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF2E63,50:8A2BE2,100:00C2FF&height=4&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FF2E63&height=2&section=header"/>
+
 
 ## 📊 Web-Slinging Stats
 
