@@ -246,9 +246,17 @@ A clean weather application that fetches and displays real-time forecasts for an
 <div align="center">
 <!--START_SECTION:snake-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavithraB-wec/pavithraB-wec/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavithraB-wec/pavithraB-wec/output/github-contribution-grid-snake.svg" />
-  <img alt="A spider-web themed snake eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/pavithraB-wec/pavithraB-wec/output/github-contribution-grid-snake-dark.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/pavithraB-wec/pavithraB-wec/output/github-contribution-grid-snake-dark.svg"/>
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/pavithraB-wec/pavithraB-wec/output/github-contribution-grid-snake-light.svg"/>
+
+  <img
+    alt="Spider-Verse Contribution Snake"
+    src="https://raw.githubusercontent.com/pavithraB-wec/pavithraB-wec/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 <!--END_SECTION:snake-->
 <sub><p align="center">
@@ -256,9 +264,11 @@ A clean weather application that fetches and displays real-time forecasts for an
 </p></sub>
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00C2FF,50:8A2BE2,100:FF2E63&height=4&width=100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00C2FF,50:8A2BE2,100:FF2E63&height=4" />
+</p>
 
-## 🏆 Achievements
+### 🏆 Achievements
 
 <div align="center">
 
