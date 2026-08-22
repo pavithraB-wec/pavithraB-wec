@@ -217,7 +217,7 @@ A clean weather application that fetches and displays real-time forecasts for an
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=FF2E63&height=2&section=header"/>
 
-![flappy bird contribution graph](https://raw.githubusercontent.com/pavithraB-wec/pavithraB-wec/output-flappy/flappy-contribution-graph.svg)
+![flappy bird contribution graph](https://raw.githubusercontent.com/pavithraB-wec/pavithraB-wec/output-flappy-1/flappy-contribution-graph.svg)
 
 
 ## 📊 Web-Slinging Stats
