@@ -1,15 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,25:FF2E63,55:8A2BE2,100:00C2FF&height=210&section=header&text=PAVITHRA&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Your%20Friendly%20Neighborhood%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=680&lines=%F0%9F%95%B7%EF%B8%8F+Welcome+to+the+Spider-Verse+of+Code;Information+Science+%26+Engineering+Student;Full+Stack+Developer+%7C+AI+Explorer;Building+Apps+Across+Dimensions;With+Great+Code+Comes+Great+Responsibility" alt="Typing SVG" />
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=680&lines=%F0%9F%95%B7%EF%B8%8F+Welcome+to+the+SpiderVerse+of+Code;Information+Science+%26+Engineering+Student;Full+Stack+Developer+%7C+AI+Explorer;Building+Apps+Across+Dimensions;With+Great+Code+Comes+Great+Responsibility" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Profile%20Views-FF2E63?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=pavithraB-wec&color=00c2ff&style=for-the-badge&label=VISITORS"/>
-<img src="https://img.shields.io/github/followers/pavithraB-wec?label=FOLLOWERS&style=for-the-badge&color=0F0F1A&labelColor=FF2E63"/>
-<img src="https://img.shields.io/badge/LOCATION-Puducherry%2C%20India-0F0F1A?style=for-the-badge&logo=googlemaps&logoColor=00C2FF"/>
-<a href="https://www.linkedin.com/in/pavithra-ise/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:p71212764@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-FF2E63?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
+<div align="left"> <img src="https://img.shields.io/badge/Profile%20Views-FF2E63?style=for-the-badge&logo=googleanalytics&logoColor=white"/> <img src="https://komarev.com/ghpvc/?username=pavithraB-wec&color=00c2ff&style=for-the-badge&label=VISITORS"/> <img src="https://img.shields.io/github/followers/pavithraB-wec?label=FOLLOWERS&style=for-the-badge&color=0F0F1A&labelColor=FF2E63"/> <img src="https://img.shields.io/badge/LOCATION-Puducherry%2C%20India-0F0F1A?style=for-the-badge&logo=googlemaps&logoColor=00C2FF"/> <a href="https://www.linkedin.com/in/pavithra-ise/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:p71212764@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-FF2E63?style=for-the-badge&logo=gmail&logoColor=white"/></a> </div>
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F0F1A,50:FF2E63,100:00C2FF&height=4&width=100%"/>
 
