@@ -1,5 +1,3 @@
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,25:FF2E63,55:8A2BE2,100:00C2FF&height=210&section=header&text=PAVITHRA&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Your%20Friendly%20Neighborhood%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=680&lines=%F0%9F%95%B7%EF%B8%8F+Welcome+to+the+Spider-Verse+of+Code;Information+Science+%26+Engineering+Student;Full+Stack+Developer+%7C+AI+Explorer;Building+Apps+Across+Dimensions;With+Great+Code+Comes+Great+Responsibility" alt="Typing SVG" />
 
@@ -228,12 +226,8 @@ A clean weather application that fetches and displays real-time forecasts for an
 
 ## 📊 Web-Slinging Stats
 
-<div align="center">
+<h1 align="center">🕸️ Hi, I'm Pavithra 🕷️</h1> <p align="center"><i>Final year ISE student · building real-world web apps · friendly neighborhood coder</i></p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=pavithraB-wec&background=0D0D12&border=E4212B&stroke=E4212B&ring=E4212B&fire=E4212B&currStreakLabel=3D6FE0&sideLabels=F2EDE2&currStreakNum=F2EDE2&sideNums=F2EDE2&dates=9aa3b5&hide_border=true" alt="Streak stats"/> </p> <p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=pavithraB-wec&show_icons=true&title_color=E4212B&text_color=F2EDE2&icon_color=3D6FE0&bg_color=0D0D12&border_color=E4212B&hide_border=true&rank_icon=github" alt="GitHub stats" width="49%"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pavithraB-wec&layout=compact&title_color=E4212B&text_color=F2EDE2&bg_color=0D0D12&border_color=E4212B&hide_border=true&langs_count=8" alt="Top languages" width="49%"/> </p> <p align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pavithraB-wec&layout=donut&title_color=E4212B&text_color=F2EDE2&bg_color=0D0D12&border_color=E4212B&hide_border=true&langs_count=6" alt="Top languages donut" width="60%"/> </p> <p align="center"> <a href="https://github.com/pavithraB-wec">🕸️ github.com/pavithraB-wec 🕸️</a> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pavithraB-wec&show_icons=true&theme=radical&hide_border=true&bg_color=0F0F1A&title_color=00C2FF&icon_color=FF2E63&text_color=FFFFFF"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavithraB-wec&theme=radical&hide_border=true&background=0F0F1A&stroke=00C2FF&ring=FF2E63&fire=FF2E63&currStreakLabel=00C2FF"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithraB-wec&layout=compact&theme=radical&hide_border=true&bg_color=0F0F1A&title_color=00C2FF&text_color=FFFFFF"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavithraB-wec&theme=radical&bg_color=0F0F1A&color=00C2FF&line=FF2E63&point=FFFFFF&hide_border=true"/>
 
