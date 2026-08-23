@@ -258,6 +258,9 @@ A clean weather application that fetches and displays real-time forecasts for an
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00C2FF,50:8A2BE2,100:FF2E63&height=4" />
 </p>
 
+### LeetCode Stats
+[![zUua6S3C3W's LeetCode Stats](https://leetcard.jacoblin.cool/zUua6S3C3W?theme=dark&font=Fira%20Code&extension=activity)](https://leetcode.com/u/zUua6S3C3W/)
+
 ### 🏆 Achievements
 
 <div align="center">
