@@ -17,7 +17,7 @@
 alias: Pavi
 role: Full Stack Developer | Information Science & Engineering
 origin: Women's Engineering College, Puducherry
-current_mission: Batch 13 — Class of 2023-27 | CGPA 7.886
+current_mission: Batch 13 — Class of 2023-27 | CGPA 8.18
 powers:
   - Python & Java
   - Full Stack Development (Node.js, Express, MongoDB, React, Flask)
